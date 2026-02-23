@@ -52,7 +52,7 @@ public class VibrationService extends Service {
 
     private void connectWebSocket() {
         try {
-            URI uri = new URI("wss://your-render-url.onrender.com");
+            URI uri = new URI("wss://vibr-r7w1.onrender.com");
 
             webSocketClient = new WebSocketClient(uri) {
 
