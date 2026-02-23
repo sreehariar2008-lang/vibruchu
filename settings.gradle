@@ -1,0 +1,2 @@
+rootProject.name = "Vibruchu"
+include ':app'
